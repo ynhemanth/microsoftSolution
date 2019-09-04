@@ -1,0 +1,12 @@
+C:\Users\ynhem\source\repos\Repository\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Users\ynhem\source\repos\Repository\Service\bin\Debug\netstandard2.0\Service.dll
+C:\Users\ynhem\source\repos\Repository\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\ynhem\source\repos\Repository\Service\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\ynhem\source\repos\Repository\Service\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\ynhem\source\repos\Repository\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\Users\ynhem\source\repos\Repository\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\ynhem\source\repos\Repository\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Users\ynhem\source\repos\Repository\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Users\ynhem\source\repos\Repository\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+C:\Users\ynhem\source\repos\Repository\Service\obj\Debug\netstandard2.0\Service.dll
+C:\Users\ynhem\source\repos\Repository\Service\obj\Debug\netstandard2.0\Service.pdb
